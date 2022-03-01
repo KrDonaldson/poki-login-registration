@@ -1,0 +1,4 @@
+__pycache__/
+virtualEnvironment/
+.env
+Day1SinglePageApp\.env
